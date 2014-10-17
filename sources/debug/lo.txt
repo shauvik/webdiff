@@ -1,0 +1,5 @@
+1. go to MS Loopback adapter properties, set IP 10.0.0.10, MASK 255.255.255.0
+2. ipconfig /all and look at the MAC-ID for your new adapter.
+3. arp -s 10.0.0.10 <MAC-ID>
+4. route add 10.0.0.10 10.0.0.10 mask 255.255.255.255
+5. to test: "telnet 10.0.0.10"

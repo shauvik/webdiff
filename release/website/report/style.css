@@ -1,0 +1,49 @@
+html{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.results{
+	width:100%;
+	border-collapse:collapse;
+	border-spacing:0px;
+	font-size:small;
+}
+
+.results .odd{
+  background-color:#eee;
+}
+.results .even{
+  background-color:#fff;
+}
+.results .cluster{
+  background-color:#CCCFFF;
+  font-weight:bold;
+}
+
+.results td, .results th{
+	/*border:1px solid #003366;*/
+}
+
+.results th{
+	text-align:left;
+}
+
+.sclbl{
+	width:100%;
+	background-color:#eee;
+}
+
+.plus{
+    background-image:url('icon_plus.gif');
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+.minus{
+    background-image:url('icon_minus.gif');
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.hid{
+	display:none;
+}

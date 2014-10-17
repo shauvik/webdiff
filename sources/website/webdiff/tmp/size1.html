@@ -1,0 +1,49 @@
+<html>
+<head>
+<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" src="browser_detect.js"></script>
+<script>
+  // Load jQuery
+  google.load("jquery", "1");
+  
+  function updateDim(){
+    $("#win").html('window='+$(window).width()+'px X '+$(window).height()+'px');
+    $('#doc').html('document='+$(document).width()+'px X '+$(window).height()+'px');
+  }
+
+  google.setOnLoadCallback(function(){
+    updateDim();
+    $(window).resize(function(){
+      updateDim();
+    });
+  });
+</script>
+</head>
+<body bgcolor="#000000" style="color:white">
+<div id="win">
+</div>
+<div id="doc">
+</div>
+
+<script language="JavaScript">
+<!--
+function resize_win(w,h,scrollbar){
+  var w = 1024;
+  var h = 768;
+  if (BrowserDetect.browser == 'Firefox'){
+    window.resizeTo(w+25,h+142); //width = -17 without scrollbars
+  }else if (BrowserDetect.browser == 'Explorer'){
+    window.resizeTo(w+29,h+84);
+  }else if (BrowserDetect.browser == 'Chrome'){
+    window.resizeTo(640,480);
+  }
+}
+-->
+</script>
+
+<br>
+
+Click <a href="javascript:resize_win()">here</a> to resize the window
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>

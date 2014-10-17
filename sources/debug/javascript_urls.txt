@@ -1,0 +1,14 @@
+javascript:var%20bcc=document.createElement('script');bcc.setAttribute('src','http://localhost/webdiff/webdiff.js');document.body.appendChild(bcc);void(bcc);
+
+javascript:bcc.init('1');
+
+
+
+
+javascript:var%20bcc=document.createElement('script');bcc.setAttribute('src','http://localhost/webdiff/webdiff-dbg.js');document.body.appendChild(bcc);void(bcc);
+
+
+javascript:bcc.debug();
+
+
+C:/WebDiff/hudsuckr.exe (null) true true true true "127.0.0.1:8080" "<local>" (null)

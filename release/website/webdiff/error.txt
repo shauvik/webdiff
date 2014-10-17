@@ -1,0 +1,109 @@
+{
+  ip:"127.0.0.1",
+  user_agent:"Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)",
+  referer:"http://www.google.com/",
+  data:Array
+(
+    [PREF] => ID=3ce2e0622146aaec:U=62a357aaa02f98d0:TM=1283618510:LM=1283618510:S=JOv6TvAhQCfMf8bU
+    [NID] => 38=MrxJxf_Yp4nAqd4QCaVJGxJD01VW02Ws_QwhhjLtzTb7wjsP4oJjS5Q1Ac7RZXd9nkiWXd7ae6V9tS7ZRtAqgItT7HKO-XufW01YkkvhJVvB4IbNufEWAq93SfHKJjbK
+    [S] => sorry=nX6-yLy8AHgkevIWP6Br6Q
+)
+
+},
+{
+  ip:"127.0.0.1",
+  user_agent:"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.55 Safari/534.3",
+  referer:"http://www.google.com/",
+  data:Array
+(
+    [PREF] => ID=edf3025030d4cced:U=43dd7a7d39d582b0:TM=1283587137:LM=1283722355:S=MK5MWoI6UyzRQ_51
+    [NID] => 38=ZJQU_wDKdDBc1GIVYYzm_Ov9U6_V3DhqdgVJbQU1RgPd-Vd1JrYB0Szplq5sl7k63dVK3rEaaPcaVSwJs_Qn-5sWwhesItC61bPlh2OUlW556Gk5QZW1VmfDzssG1tAi
+)
+
+},
+{
+  ip:"127.0.0.1",
+  user_agent:"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.55 Safari/534.3",
+  referer:"http://www.google.com/",
+  data:Array
+(
+    [PREF] => ID=edf3025030d4cced:U=43dd7a7d39d582b0:TM=1283587137:LM=1283722355:S=MK5MWoI6UyzRQ_51
+    [NID] => 38=ZJQU_wDKdDBc1GIVYYzm_Ov9U6_V3DhqdgVJbQU1RgPd-Vd1JrYB0Szplq5sl7k63dVK3rEaaPcaVSwJs_Qn-5sWwhesItC61bPlh2OUlW556Gk5QZW1VmfDzssG1tAi
+)
+
+},
+{
+  time:"Saturday 11th of September 2010 04:47:31 PM",
+  ip:"127.0.0.1",
+  user_agent:"Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)",
+  referer:"http://www.gatech.edu/",
+  data:Array
+(
+    [mysql_errno] => 1064
+    [mysql_error] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',,,,,,,'','',,''), 
+(0,'',15,10,'DIV',1,0,0,0,0,0,0,2,'A 18,A 19','/HTML/BODY/DI' at line 1
+    [query] => INSERT INTO domdata (arktos,domid,testid, id, name, type, x0, y0, x1, y1, clickable, visible, parentid, children, xpath, zindex, contenthash) VALUES (0,'home',15,1,'BODY',,,,,,,,,'','',,''), 
+(0,'',15,10,'DIV',1,0,0,0,0,0,0,2,'A 18,A 19','/HTML/BODY/DIV/DIV',0,'0xEF331695'), 
+(0,'logoWrapper',15,11,'DIV',1,2,0,982,125,0,1,2,'H1 20,A 21','/HTML/BODY/DIV/DIV[2]',0,'0xE96CCF45'), 
+(0,'utilityBar',15,12,'DIV',1,0,125,985,150,0,1,2,'UL 22','/HTML/BODY/DIV/DIV[3]',0,'no hash'), 
+(0,'breadcrumb',15,13,'DIV',1,0,150,985,171,0,1,2,'OL 23','/HTML/BODY/DIV/DIV[4]',0,'no hash'), 
+(0,'logo',15,20,'H1',1,2,0,202,122,0,1,11,'A 47','/HTML/BODY/DIV/DIV[2]/H1',0,'0xE96CCF45'), 
+(0,'specialFeature',15,21,'A',1,482,1,982,125,0,1,11,'','/HTML/BODY/DIV/DIV[2]/A',0,'0xE9FB1CA7'), 
+(0,'utilityNav',15,22,'UL',1,2,125,982,150,0,1,12,'LI 48,LI 49,LI 50,LI 51,LI 52','/HTML/BODY/DIV/DIV[3]/UL',0,'no hash'), 
+(0,'',15,23,'OL',1,2,150,982,171,0,1,13,'LI 53','/HTML/BODY/DIV/DIV[4]/OL',0,'no hash'), 
+(0,'',15,24,'A',1,2,179,2,179,0,1,14,'','/HTML/BODY/DIV[2]/DIV/A',0,'no hash'), 
+(0,'mainNav',15,25,'UL',1,2,190,188,693,0,1,14,'LI 54,LI 55,LI 56,LI 57,LI 58,LI 59,LI 60,LI 61,LI 62,LI 63,LI 64,LI 65,LI 66,LI 67,LI 68,LI 69,LI 70','/HTML/BODY/DIV[2]/DIV/UL',0,'no hash'), 
+(0,'didYouKnow',15,26,'DIV',1,2,700,188,867,0,1,14,'H4 71,P 72,DIV 73','/HTML/BODY/DIV[2]/DIV/DIV',0,'no hash'), 
+(0,'techForYou',15,48,'LI',1,793,125,982,149,0,1,22,'A 96,UL 97','/HTML/BODY/DIV/DIV[3]/UL/LI',100,'0xE96CCF45'), 
+(0,'search',15,49,'LI',1,583,125,793,149,0,1,22,'FORM 98','/HTML/BODY/DIV/DIV[3]/UL/LI[2]',100,'no hash'), 
+(0,'',15,50,'LI',1,496,125,583,149,0,1,22,'A 99','/HTML/BODY/DIV/DIV[3]/UL/LI[3]',100,'no hash'), 
+(0,'',15,51,'LI',1,407,125,496,149,0,1,22,'A 100','/HTML/BODY/DIV/DIV[3]/UL/LI[4]',100,'no hash'), 
+(0,'',15,52,'LI',1,335,125,407,149,0,1,22,'A 101','/HTML/BODY/DIV/DIV[3]/UL/LI[5]',100,'no hash'), 
+(0,'',15,53,'LI',1,202,154,202,167,0,1,23,'','/HTML/BODY/DIV/DIV[4]/OL/LI',0,'no hash'), 
+(0,'about_tech',15,54,'LI',1,2,190,188,213,0,1,25,'A 102','/HTML/BODY/DIV[2]/DIV/UL/LI',0,'no hash'), 
+(0,'admissions',15,55,'LI',1,2,220,188,243,0,1,25,'A 103','/HTML/BODY/DIV[2]/DIV/UL/LI[2]',0,'no hash'), 
+(0,'campuses_&_global_reach',15,56,'LI',1,2,250,188,273,0,1,25,'A 104','/HTML/BODY/DIV[2]/DIV/UL/LI[3]',0,'no hash'), 
+(0,'colleges_&_schools',15,57,'LI',1,2,280,188,303,0,1,25,'A 105','/HTML/BODY/DIV[2]/DIV/UL/LI[4]',0,'no hash'), 
+(0,'degree_programs',15,58,'LI',1,2,310,188,333,0,1,25,'A 106','/HTML/BODY/DIV[2]/DIV/UL/LI[5]',0,'no hash'), 
+(0,'offices_&_departments',15,59,'LI',1,2,340,188,363,0,1,25,'A 107','/HTML/BODY/DIV[2]/DIV/UL/LI[6]',0,'no hash'), 
+(0,'professional_education',15,60,'LI',1,2,370,188,393,0,1,25,'A 108','/HTML/BODY/DIV[2]/DIV/UL/LI[7]',0,'no hash'), 
+(0,'employment',15,61,'LI',1,2,400,188,423,0,1,25,'A 109','/HTML/BODY/DIV[2]/DIV/UL/LI[8]',0,'no hash'), 
+(0,'news_room',15,62,'LI',1,2,430,188,453,0,1,25,'A 110','/HTML/BODY/DIV[2]/DIV/UL/LI[9]',0,'no hash'), 
+(0,'research',15,63,'LI',1,2,460,188,483,0,1,25,'A 111','/HTML/BODY/DIV[2]/DIV/UL/LI[10]',0,'no hash'), 
+(0,'libraries_&_info_center',15,64,'LI',1,2,490,188,513,0,1,25,'A 112','/HTML/BODY/DIV[2]/DIV/UL/LI[11]',0,'no hash'), 
+(0,'sports',15,65,'LI',1,2,520,188,543,0,1,25,'A 113','/HTML/BODY/DIV[2]/DIV/UL/LI[12]',0,'no hash'), 
+(0,'alumni_association',15,66,'LI',1,2,550,188,573,0,1,25,'A 114','/HTML/BODY/DIV[2]/DIV/UL/LI[13]',0,'no hash'), 
+(0,'economic_development',15,67,'LI',1,2,580,188,603,0,1,25,'A 115','/HTML/BODY/DIV[2]/DIV/UL/LI[14]',0,'no hash'), 
+(0,'tickets_&_merchandise',15,68,'LI',1,2,610,188,633,0,1,25,'A 116','/HTML/BODY/DIV[2]/DIV/UL/LI[15]',0,'no hash'), 
+(0,'campus_calendar',15,69,'LI',1,2,640,188,663,0,1,25,'A 117','/HTML/BODY/DIV[2]/DIV/UL/LI[16]',0,'no hash'), 
+(0,'contact_us',15,70,'LI',1,2,670,188,693,0,1,25,'A 118','/HTML/BODY/DIV[2]/DIV/UL/LI[17]',0,'no hash'), 
+(0,'',15,71,'H4',1,2,712,188,736,0,1,26,'','/HTML/BODY/DIV[2]/DIV/DIV/H4',0,'0x676415B5'), 
+(0,'',15,72,'P',1,2,739,188,853,0,1,26,'','/HTML/BODY/DIV[2]/DIV/DIV/P',0,'0x7DFDF601'), 
+(0,'',15,73,'DIV',1,2,856,188,867,0,1,26,'P 119','/HTML/BODY/DIV[2]/DIV/DIV/DIV',0,'no hash'), 
+(0,'',15,98,'FORM',1,599,131,783,143,0,1,49,'INPUT 140,INPUT 141,INPUT 142,INPUT 143,INPUT 144,INPUT 145,INPUT 146,INPUT 147','/HTML/BODY/DIV/DIV[3]/UL/LI[2]/FORM',0,'0xA3114325'), 
+(0,'',15,99,'A',1,498,125,581,150,0,1,50,'','/HTML/BODY/DIV/DIV[3]/UL/LI[3]/A',0,'0x00836F58'), 
+(0,'',15,100,'A',1,409,125,494,150,0,1,51,'','/HTML/BODY/DIV/DIV[3]/UL/LI[4]/A',0,'0x6B97B869'), 
+(0,'',15,101,'A',1,337,125,405,150,0,1,52,'','/HTML/BODY/DIV/DIV[3]/UL/LI[5]/A',0,'0xCBC4B16C'), 
+(0,'',15,102,'A',1,2,190,188,213,0,1,54,'','/HTML/BODY/DIV[2]/DIV/UL/LI/A',0,'0x0144C0B2'), 
+(0,'',15,103,'A',1,2,220,188,243,0,1,55,'','/HTML/BODY/DIV[2]/DIV/UL/LI[2]/A',0,'0xC2AEDF57'), 
+(0,'',15,104,'A',1,2,250,188,273,0,1,56,'','/HTML/BODY/DIV[2]/DIV/UL/LI[3]/A',0,'0x5B2E375B'), 
+(0,'',15,105,'A',1,2,280,188,303,0,1,57,'','/HTML/BODY/DIV[2]/DIV/UL/LI[4]/A',0,'0xE545E1EC'), 
+(0,'',15,106,'A',1,2,310,188,333,0,1,58,'','/HTML/BODY/DIV[2]/DIV/UL/LI[5]/A',0,'0xDD7A9047'), 
+(0,'',15,107,'A',1,2,340,188,363,0,1,59,'','/HTML/BODY/DIV[2]/DIV/UL/LI[6]/A',0,'0xF2727627'), 
+(0,'',15,108,'A',1,2,370,188,393,0,1,60,'','/HTML/BODY/DIV[2]/DIV/UL/LI[7]/A',0,'0x6365D94C'), 
+(0,'',15,109,'A',1,2,400,188,423,0,1,61,'','/HTML/BODY/DIV[2]/DIV/UL/LI[8]/A',0,'0xF0559F48'), 
+(0,'',15,110,'A',1,2,430,188,453,0,1,62,'','/HTML/BODY/DIV[2]/DIV/UL/LI[9]/A',0,'0xFE03FD93'), 
+(0,'',15,111,'A',1,2,460,188,483,0,1,63,'','/HTML/BODY/DIV[2]/DIV/UL/LI[10]/A',0,'0xAE9D3294'), 
+(0,'',15,112,'A',1,2,490,188,513,0,1,64,'','/HTML/BODY/DIV[2]/DIV/UL/LI[11]/A',0,'0x9418A668'), 
+(0,'',15,113,'A',1,2,520,188,543,0,1,65,'','/HTML/BODY/DIV[2]/DIV/UL/LI[12]/A',0,'0x7465FC2A'), 
+(0,'',15,114,'A',1,2,550,188,573,0,1,66,'','/HTML/BODY/DIV[2]/DIV/UL/LI[13]/A',0,'0x09B9A163'), 
+(0,'',15,115,'A',1,2,580,188,603,0,1,67,'','/HTML/BODY/DIV[2]/DIV/UL/LI[14]/A',0,'0x57DDEBF3'), 
+(0,'',15,116,'A',1,2,610,188,633,0,1,68,'','/HTML/BODY/DIV[2]/DIV/UL/LI[15]/A',0,'0x892D0831'), 
+(0,'',15,117,'A',1,2,640,188,663,0,1,69,'','/HTML/BODY/DIV[2]/DIV/UL/LI[16]/A',0,'0x92151998'), 
+(0,'',15,118,'A',1,2,670,188,693,0,1,70,'','/HTML/BODY/DIV[2]/DIV/UL/LI[17]/A',0,'0x0771F5CF'), 
+(0,'',15,119,'P',1,2,856,188,867,0,1,73,'','/HTML/BODY/DIV[2]/DIV/DIV/DIV/P',0,'no hash'), 
+(0,'featureRotatorImage',15,120,'IMG',1,204,184,600,554,0,1,74,'','/HTML/BODY/DIV[2]/DIV[2]/DIV/A/IMG',0,'no hash'), 
+(0,'',15,148,'IMG',1,418,522,431,535,0,1,121,'','/HTML/BODY/DIV[2]/DIV[2]/DIV/DIV/A/IMG',0,'no hash')
+)
+
+},

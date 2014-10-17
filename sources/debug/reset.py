@@ -1,0 +1,3 @@
+import dbutils
+
+dbutils.resetAnalysis()

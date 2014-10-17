@@ -1,0 +1,41 @@
+{
+  "host_machine": "127.0.0.1", 
+  "window_size": {
+    "ff": [1424, 817], 
+    "gc": [1426, 782], 
+    "ie": [1428, 811]
+  }, 
+  "web_port": 8000, 
+  "db_config": {
+    "database": "webdiff", 
+    "host": "127.0.0.1", 
+    "password": "db_passw0rd", 
+    "port": "3306", 
+    "user": "webdiff"
+  }, 
+  "proxy_port": 8080, 
+  "image_folder": "C:/WebDiff/Screenshots", 
+  "vm_config": {
+    "machine": "127.0.0.1", 
+    "browser_map": {
+      "ie": [
+        "Internet Explorer", 
+        "C:/Program Files/Internet Explorer/IEXPLORE.EXE"
+      ], 
+      "gc": [
+        "Google Chrome", 
+        "C:/Documents and Settings/shauvik/Local Settings/Application Data/Google/Chrome/Application/chrome.exe"
+      ], 
+      "ff": [
+        "Mozilla Firefox", 
+        "C:/Program Files/Mozilla Firefox/firefox.exe"
+      ]
+    }, 
+    "reference": "ff"
+  }, 
+  "viewport": {
+    "ff": [5, 113, 19, 4], 
+    "gc": [6, 77, 20, 5], 
+    "ie": [7, 85, 21, 26]
+	}
+}

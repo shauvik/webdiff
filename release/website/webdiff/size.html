@@ -1,0 +1,67 @@
+<html>
+<head>
+<script src="jquery.js"></script>
+<script type="text/javascript" src="browser_detect.js"></script>
+<script>
+	(function (){
+		var sty = document.createElement("style");
+		sty.type = "text/css";
+		if (sty.styleSheet) {
+		  sty.styleSheet.cssText = "html {overflow-y: scroll;}";
+		} else {
+		  sty.appendChild(document.createTextNode("html{overflow-y:scroll;overflow:-moz-scrollbars-vertical;}"));
+		}
+		document.getElementsByTagName("head")[0].appendChild(sty);
+	})();
+	function updateDim(){
+		$("#win").html('window='+$(window).width()+'px X '+$(window).height()+'px');
+		//$('#doc').html('document='+$(document).width()+'px X '+$(window).height()+'px');
+		//$('#client').html('clientHeight='+document.body.clientHeight+'px , clientWidth='+document.body.clientWidth+'px');
+		//$('#scroll').html('scrollHeight='+document.body.scrollHeight+'px, scrollWidth='+document.body.scrollWidth+'px');
+	}
+	$(document).ready(function () {
+		updateDim();
+		$(window).resize(function(){
+		  updateDim();
+		});
+	});
+</script>
+<style>
+html{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body bgcolor="#000000" style="color:white">
+<div id="win" style="font-size:75px;text-align:center">
+</div>
+<div id="doc">
+</div>
+<div id="client">
+</div>
+<div id="scroll">
+</div>
+
+<script language="JavaScript">
+<!--
+function resize_win(w,h,scrollbar){
+  var w = 1024;
+  var h = 768;
+  if (BrowserDetect.browser == 'Firefox'){
+    window.resizeTo(w+25,h+142); //width = -17 without scrollbars
+  }else if (BrowserDetect.browser == 'Explorer'){
+    window.resizeTo(w+29,h+84);
+  }else if (BrowserDetect.browser == 'Chrome'){
+    window.resizeTo(640,480); //In chrome, you can only resize popup windows; automatically
+  }
+}
+-->
+</script>
+
+<br>
+<center>
+Please resize all browsers to the same visible area size.
+</center>
+<!-- Click <a href="javascript:resize_win()">here</a> to resize the window -->
+</body>
+</html>

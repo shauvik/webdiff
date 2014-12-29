@@ -38,4 +38,4 @@ at http://www.cc.gatech.edu/~shauvik/webdiff.php
 +==============================+
   III. FEEDBACK/SUPPORT
 +==============================+
-Visit our trac page at http://trac.research.cc.gatech.edu/webtest/
+Please log your issues on our Github issues page: https://github.com/shauvik/webdiff/issues
